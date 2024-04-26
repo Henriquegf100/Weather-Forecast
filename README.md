@@ -6,3 +6,7 @@
 <p>HTML</p>
 <p>CSS</p>
 <p>JavaScript</p>
+<br>
+
+<img src="https://github.com/Henriquegf100/Weather-Forecast/blob/main/img-weather-forecast.png?raw=true">
+
