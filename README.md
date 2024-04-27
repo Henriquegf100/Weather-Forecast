@@ -9,4 +9,4 @@
 <br>
 
 <img src="https://github.com/Henriquegf100/Weather-Forecast/blob/main/img-weather-forecast.png?raw=true">
-<img src="https://github.com/simonnilsson/material-file-icons/raw/main/preview.png">
+
