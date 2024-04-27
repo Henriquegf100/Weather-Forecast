@@ -1,4 +1,4 @@
-<h1>Weather Forecast</h1>
+<h1>🌡️ Weather Forecast 🌤️</h1>
 
 <h2>Projeto construído durante o estudo de Full Stack no curso ministrado pela <a href="https://rodolfomori.com.br/devclub/">Devclub</a></h2>
 
